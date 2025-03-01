@@ -1,0 +1,14 @@
+flask
+flask-cors
+tesseract
+pytesseract
+opencv-python
+pdfplumber
+python-docx
+transformers
+torch
+spacy
+faiss-cpu
+numpy
+pandas
+scipy
